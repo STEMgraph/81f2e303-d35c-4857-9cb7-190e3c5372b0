@@ -1,6 +1,7 @@
 <!---
 {
   "id": "81f2e303-d35c-4857-9cb7-190e3c5372b0",
+  "teaches": "Comparing Object Files from GAS and GCC",
   "depends_on": [
     "718193ef-11a1-408d-af23-4b10c24d490d",
     "99787eda-617a-4a68-b9a4-d60ec5c5c303",
